@@ -1,6 +1,6 @@
 <!-- fallback_WalletConnect_20260118122519_24440 -->
 
-# WalletConnect: Decentralized WalletConnect Framework enables secure, multi-protocol interactions and resilient automatic connection retries seamlessly Implementation
+# martian-connect: Decentralized WalletConnect Framework enables secure, multi-protocol interactions and resilient automatic connection retries seamlessly Implementation
 > Advanced rust solution leveraging modern architecture patterns and cutting-edge technology.
 
 Decentralized WalletConnect Framework enables secure, multi-protocol interactions and resilient automatic connection retries seamlessly.
